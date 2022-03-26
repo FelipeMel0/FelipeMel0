@@ -1,6 +1,6 @@
 ## Bem-vindo! 
 
-Meu nome é Felipe de Melo Fernandes, tenho 16 anos e estou estudando Desenvolvimento de Sistemas no Senai de Jandira.
+Meu nome é Felipe de Melo Fernandes, tenho 17 anos e estou estudando Desenvolvimento de Sistemas no Senai de Jandira.
 Fique a vontade para explorar meus repositórios.
 
 <hr>
