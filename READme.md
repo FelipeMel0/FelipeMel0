@@ -21,7 +21,3 @@ Fique a vontade para explorar meus repositórios.
 ## Contate-me:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/felipe-de-melo-fernandes-755096212)
-
-<hr>
-
-<img src="https://media1.giphy.com/media/kdicjggNCgM10dtqvO/giphy.gif" width=1100px>
