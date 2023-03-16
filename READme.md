@@ -1,6 +1,6 @@
 ## Bem-vindo! 
 
-Meu nome é Felipe de Melo Fernandes, tenho 17 anos e sou técnico em Desenvolvimento de Sistemas.
+Finalizei o curso técnico em Desenvolvimento de Sistemas e atualmente estou cursando Ciência da Computação.
 Fique a vontade para explorar meus repositórios.
 
 <hr>
