@@ -1,6 +1,6 @@
 ## Bem-vindo! 
 
-Finalizei o curso técnico em Desenvolvimento de Sistemas e atualmente estou cursando Ciência da Computação.
+Finalizei o curso técnico em Desenvolvimento de Sistemas e atualmente estou fazendo curso superior em Análise e Desenvolvimento de Sistemas.
 Fique a vontade para explorar meus repositórios.
 
 <hr>
